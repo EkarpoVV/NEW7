@@ -8,3 +8,6 @@ Chek thet two repositories are synchronized via git remote -v
 Run git add
 Create commit via git commit -m 'Add Readmy file'
 Sent file to GitHUB via git push -u NEW7 main OR git puch -u NEW7 master
+
+
+ Если ввести git commit без флага -m, откроется редактор Vim. Чтобы выйти из него, нажмите клавишу Esc, наберите последовательность символов :q! и нажмите Enter.
