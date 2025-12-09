@@ -11,3 +11,10 @@ Sent file to GitHUB via git push -u NEW7 main OR git puch -u NEW7 master
 
 
  Если ввести git commit без флага -m, откроется редактор Vim. Чтобы выйти из него, нажмите клавишу Esc, наберите последовательность символов :q! и нажмите Enter.
+
+
+
+ 
+git checkout -b имяветки - создать ветку
+git log
+git log --oneline
